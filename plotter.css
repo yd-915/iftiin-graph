@@ -1,5 +1,5 @@
 body{
-    background-color: #fcfcfc;
+    background-color: #161C19;
     display:grid;
     grid-template-columns:30% 70%;
     padding:0px;
@@ -30,7 +30,7 @@ body{
     padding:10%;
     outline:none;
     font-size:large;
-    border: 3px solid rgba(110,255,255,0.18);
+    border: 3px solid #8956FF;
     transition:all 200ms;
     transition-timing-function: ease-in-out;
 }
@@ -51,7 +51,7 @@ body{
     margin:5% 0 5% 0;
     padding:5% 0% 5% 0%;
     font-size:large;
-    border: 3px solid rgba(110,255,255,0.18); 
+    border: 3px solid #8956FF; 
     transition:all 200ms;
     transition-timing-function: ease-in-out;   
 }
@@ -89,7 +89,7 @@ body{
     background:none;
     outline:none;
     cursor: pointer;
-    border: 2.5px solid rgba(167,255,47,0.5);
+    border: 2.5px solid #8956FF;
     font-family: GoogleSans;
 }
 #plotbtn:hover{
